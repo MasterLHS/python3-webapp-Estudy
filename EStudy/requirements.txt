@@ -1,0 +1,5 @@
+captcha
+django==2.2.4
+mysqlclient
+pillow
+django-pure-pagination
